@@ -8,3 +8,4 @@ Please refer to [Bootstrap Template](https://startbootstrap.com/template-categor
 
 - blog: modified from https://github.com/BlackrockDigital/startbootstrap-clean-blog
 - portfolio: modified from https://github.com/BlackrockDigital/startbootstrap-portfolio-item
+- gallery: modified from https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery
